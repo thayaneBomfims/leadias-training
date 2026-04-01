@@ -1,0 +1,21 @@
+lead_id,empresa,vendedor,origem,data_entrada,data_saida,status,valor_veiculo,modelo_veiculo,tempo_primeiro_contato_min,qtd_interacoes,texto,preco,financiamento,concorrencia,atendimento,demora,desinteresse,timing,recuperado,estrategia
+1,Loja A,Maria,Indicação,2026-01-01,2026-01-02,perdido,78119,HB20,10,2,Cliente achou o valor muito alto e disse que vai pesquisar mais,1,0,1,0,0,0,0,0,
+2,Loja A,João,OLX,2026-01-02,2026-01-03,perdido,49769,HB20,30,2,Financiamento ficou com parcela muito alta e cliente desistiu,0,1,0,0,0,0,0,0,
+3,Loja A,Maria,Google,2026-01-03,2026-01-07,perdido,50082,Gol,10,4,Cliente disse que encontrou proposta melhor em outra loja,0,0,1,0,0,0,0,0,
+4,Loja A,Ana,Site,2026-01-04,2026-01-07,perdido,68480,Civic,10,2,Demoramos para responder e cliente parou de responder,0,0,0,0,1,1,0,0,
+5,Loja A,Carlos,Facebook,2026-01-05,2026-01-09,perdido,77306,Onix,30,3,Cliente achou caro mas voltou depois de negociação,1,0,0,0,0,0,1,1,desconto aplicado
+6,Loja A,Ana,Site,2026-01-06,2026-01-09,perdido,53806,Civic,60,1,Financiamento não aprovou e cliente desistiu,0,1,0,0,0,1,0,0,
+7,Loja A,Ana,Google,2026-01-07,2026-01-11,perdido,59248,HB20,5,2,Cliente sumiu depois do primeiro contato,0,0,0,0,0,1,0,0,
+8,Loja A,Maria,Indicação,2026-01-08,2026-01-10,perdido,62400,HB20,60,1,Cliente disse que estava só pesquisando e não era o momento,0,0,0,0,0,1,0,0,
+9,Loja A,João,Google,2026-01-09,2026-01-14,perdido,85302,Gol,120,3,Cliente achou caro e também estava vendo concorrência,1,0,1,0,0,0,0,0,
+10,Loja A,Maria,Google,2026-01-10,2026-01-14,perdido,52307,Onix,60,2,Cliente voltou após nova condição de financiamento,0,1,0,0,0,0,1,1,nova simulação
+11,Loja A,Ana,OLX,2026-01-11,2026-01-14,perdido,81685,Onix,60,5,Cliente reclamou do atendimento e não quis continuar,0,0,0,1,0,0,0,0,
+12,Loja A,Ana,Indicação,2026-01-12,2026-01-14,perdido,78035,Civic,10,1,Cliente demorou muito para responder e desistiu,0,0,0,0,1,1,0,0,
+13,Loja A,Carlos,OLX,2026-01-13,2026-01-18,perdido,71072,Corolla,5,3,Cliente achou o carro caro para o que oferece,1,0,0,0,0,0,0,0,
+14,Loja A,Maria,Indicação,2026-01-14,2026-01-15,perdido,84594,HB20,10,4,Cliente foi até outra loja e fechou lá,0,0,1,0,0,0,0,0,
+15,Loja A,Maria,Site,2026-01-15,2026-01-18,perdido,87917,Corolla,10,3,"Cliente não conseguiu aprovação no financiamento, mas voltou com entrada maior",0,1,0,0,0,0,1,1,aumento da entrada
+16,Loja A,Maria,Google,2026-01-16,2026-01-21,perdido,69289,Gol,10,1,Cliente disse que iria pensar e nunca mais respondeu,0,0,0,0,0,1,0,0,
+17,Loja A,Maria,Google,2026-01-17,2026-01-19,perdido,47487,Gol,30,2,"Cliente achou caro, mas fechou após bônus oferecido",1,0,0,0,0,0,1,1,bônus na negociação
+18,Loja A,Ana,Google,2026-01-18,2026-01-21,perdido,74051,Onix,5,5,Cliente estava comparando preços e escolheu concorrente,1,0,1,0,0,0,0,0,
+19,Loja A,Maria,Google,2026-01-19,2026-01-23,perdido,79452,Corolla,30,2,Cliente não gostou do atendimento e desistiu da compra,0,0,0,1,0,0,0,0,
+20,Loja A,Maria,Site,2026-01-20,2026-01-23,perdido,71663,Onix,10,2,Cliente não respondeu após vários contatos,0,0,0,0,1,1,0,0,
